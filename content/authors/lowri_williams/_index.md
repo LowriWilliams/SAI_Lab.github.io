@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Dr Lowri Williams](https://lowriwilliams.co.uk/)
+title: Dr Lowri Williams
 
 # Full name (for SEO)
 first_name: Lowri
@@ -8,7 +8,7 @@ last_name: Williams
 
 # Username (this should match the folder name)
 authors:
-  - lowri_williams
+  - Lowri Williams
 
 # Is this the primary user of the site?
 superuser: true
