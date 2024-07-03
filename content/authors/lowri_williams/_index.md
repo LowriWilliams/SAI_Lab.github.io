@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Dr Lowri Williams](https://lowriwilliams.co.uk)
+title: Dr Lowri Williams
 
 # Full name (for SEO)
 first_name: Lowri
