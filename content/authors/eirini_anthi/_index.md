@@ -10,7 +10,7 @@ last_name: Anthi
 superuser: true
 
 # Role/position
-role: Lecturer in Cybersecurity
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
