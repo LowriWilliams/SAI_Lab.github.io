@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Co-Founders
+          - Co-Directors
           - Grad Students
           - Administration
           - Visitors
@@ -21,6 +21,6 @@ sections:
       sort_ascending: true
     design:
       show_interests: false
-      show_role: false
+      show_role: true
       show_social: true
 ---
