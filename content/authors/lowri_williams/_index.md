@@ -11,7 +11,7 @@ last_name: Williams
 #   - Lowri Williams
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lecturer
@@ -33,9 +33,5 @@ social:
 user_groups:
   - Co-Directors
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 ---
 
