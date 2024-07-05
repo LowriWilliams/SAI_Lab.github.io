@@ -20,9 +20,9 @@ organizations:
 bio: 
 
 interests:
-- Large Language Model (LLM) security.​
-- Automated Threat Intelligence processing and generation using text mining.​
-- Automated cyber detectors and defenders:​ Machine Learning and Adversarial Machine Learning 
+- LLM security
+- Automated Threat Intelligence using Text Mining
+- ML and AML Cyber Defenders
 
 # education:
 #   courses:

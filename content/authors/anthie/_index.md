@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 interests:
-- Adversarial Machine Learning against Cyber Defenses
+- AML against Cyber Defenses
 - Trustworthy AI
 - LLM Applications in Cyber
 
