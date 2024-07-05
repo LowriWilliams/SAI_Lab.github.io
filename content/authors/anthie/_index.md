@@ -19,10 +19,9 @@ organizations:
 bio: 
 
 interests:
-# - Fairness
-# - Bias and Ethics in Language Models
-# - Interpretability
-# - Lexical Semantics
+- Adversarial Machine Learning against Cyber Defenses
+- Trustworthy AI
+- LLM Applications in Cyber
 
 # education:
 #   courses:

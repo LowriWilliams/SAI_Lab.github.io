@@ -20,10 +20,9 @@ organizations:
 bio: 
 
 interests:
-# - Lexical Semantics
-# - Multilinguality
-# - Social Media
-# - Embeddings
+- Large Language Model (LLM) security.​
+- Automated Threat Intelligence processing and generation using text mining.​
+- Automated cyber detectors and defenders:​ Machine Learning and Adversarial Machine Learning 
 
 # education:
 #   courses:
