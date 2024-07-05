@@ -33,5 +33,7 @@ social:
 user_groups:
   - Co-Directors
 
+view: 5
+
 ---
 
