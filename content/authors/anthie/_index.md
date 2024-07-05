@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Abdullah Alshatti
+title: Dr Irene Anthi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,10 @@ organizations:
 bio: 
 
 interests:
-- Text Simplification
+# - Fairness
+# - Bias and Ethics in Language Models
+# - Interpretability
+# - Lexical Semantics
 
 # education:
 #   courses:
@@ -38,12 +41,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: globe
-#   icon_pack: fas
-#   link: https://asahiushio.com/
+- icon: globe
+  icon_pack: fas
+  link: https://profiles.cardiff.ac.uk/staff/anthies
 # - icon: envelope
 #   icon_pack: fas
-#   link: 'mailto:barayanas@cardiff.ac.uk'
+#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
@@ -56,9 +59,6 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/abdullah-barayan-056861102/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Co-Directors
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Matthew Powell
+title: Dr Lowri Williams
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +20,10 @@ organizations:
 bio: 
 
 interests:
-- Neuro-Symbolic AI
-- Disinformation
-- Explainable AI
+# - Lexical Semantics
+# - Multilinguality
+# - Social Media
+# - Embeddings
 
 # education:
 #   courses:
@@ -39,10 +41,10 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: globe
-#   icon_pack: fas
-#   link: 
+social:
+- icon: globe
+  icon_pack: fas
+  link: https://lowriwilliams.co.uk
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
@@ -73,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Co-Directors
 ---
 
 
