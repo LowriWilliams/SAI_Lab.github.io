@@ -6,7 +6,7 @@ title: Dr Irene Anthi
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Lecturer in Cybersecurity
 
 # Organizations/Affiliations
 organizations:
