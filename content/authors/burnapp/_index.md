@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 interests:
-- Automated Cyber Defenses
+- ML and AML Cyber Defenses
 - AI Security
 
 # education:
