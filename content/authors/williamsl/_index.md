@@ -7,7 +7,7 @@ weight: 10
 superuser: true
 
 # Role/position
-role: Lecturer in Cybersecurity
+role: Lecturer in Data Science & Cybersecurity
 
 # Organizations/Affiliations
 organizations:

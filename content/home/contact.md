@@ -20,14 +20,11 @@ content:
   - icon: twitter
     icon_pack: fab
     name: Twitter
-    link: 'https://twitter.com/Cardiff_NLP'
-  - icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/cardiffnlp'
+    link: 'https://twitter.com/Safe_AI_CU'
+
 
 ---
 
-If you are in Cardiff and interested in NLP, whether you are from industry, academia or the public sector,  please [contact Jose Camacho-Collados](mailto:CamachoColladosJ@cardiff.ac.uk) to join our group and/or subscribe to our **mailing list**.
+If you are interested in Safe AI, whether you are from industry, academia or the public sector, please contact either [Dr Lowri Williams](mailto:WilliamsL10@cardiff.ac.uk) or [Dr Eirini Anthi](mailto:AnthiES@cardiff.ac.uk).
 
-**Follow us** on social media for the latest information and opportunities to join us!
+**Follow us** on social media for the latest information and opportunities to join or work with us!
