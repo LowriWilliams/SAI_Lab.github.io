@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Evaluating and Improving the Robustness of National Highways’ AI-based Systems"
-summary: ""
-authors: [Dr Eirini Anthi, Dr Lowri Williams]
-tags: []
+title: "RELATIVE"
+summary: "Package to learn relation embeddings"
+authors: [camachocolladosj,espinosaankel,schockaerts]
+tags: [embeddings]
 categories: []
-date: 2023-07-01
+date: 2022-02-18T21:25:48Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Center"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/pedrada88/relative"
+url_pdf: "https://www.ijcai.org/proceedings/2019/0682.pdf"
 url_slides: ""
 url_video: ""
 
