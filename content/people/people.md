@@ -19,6 +19,7 @@ content:
   - Co Directors
   - Researchers
   - PhD Students
+  - Associated Faculty
 design:
   show_interests: true
   show_role: true
