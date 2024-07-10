@@ -16,7 +16,7 @@ design:
 ---
 <div style="width: 100%; overflow: hidden;">
 
-<div style="width:70%; float: left;">
+<!-- <div style="width:100%;"> -->
 
 <center>{{< figure src="AI_home.jpg" >}}</center> 
 
@@ -27,10 +27,10 @@ We believe that **NLP is interdisciplinary** in nature, and that is why we are i
 
 We conduct [active research](research) in diverse NLP topics such as lexical semantics, commonsense reasoning, multilinguality, downstream and social NLP applications (e.g. health, social media) and many others.
 Check our [team members' websites](people) and [publications](publication) to find out more!    -->
-</div>
+<!-- </div> -->
 
-<div style="margin-left: 960px;">
+<!-- <div style="margin-left: 960px;">
 <a class="twitter-timeline" href="https://twitter.com/Safe_AI_CU?ref_src=twsrc%5Etfw">Tweets by Safe_AI_CU</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+</div> -->
 
 </div>
