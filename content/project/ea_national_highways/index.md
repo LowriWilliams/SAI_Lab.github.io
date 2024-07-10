@@ -6,7 +6,7 @@ summary: "Dataset of patronizing and condescending language towards vulnerable c
 authors: [Dr Eirini Anthi, Dr Lowri Williams]
 tags: [dataset]
 categories: []
-date: 2022-02-18T21:25:57Z
+date: 2023-07-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
