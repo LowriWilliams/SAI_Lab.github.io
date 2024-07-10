@@ -10,7 +10,7 @@ headless: false
 weight: 10
 
 title: Projects
-subtitle: 'We are committed to **open science**, and most of our projects and publications are made **open-source**, including data and code. Here is a sample of open projects at CardiffNLP.'
+
 
 content:
   # Page type to display. E.g. project.
@@ -24,15 +24,16 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
+
   filter_button:
   - name: All
     tag: '*'
-  - name: Twitter
-    tag: twitter
-  - name: Embeddings
-    tag: embeddings
-  - name: Shared Tasks
-    tag: sharedtask
+  # - name: Twitter
+  #   tag: twitter
+  # - name: Embeddings
+  #   tag: embeddings
+  # - name: Shared Tasks
+  #   tag: sharedtask
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

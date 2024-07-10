@@ -3,7 +3,7 @@
 
 title: "Don't Patronize Me!"
 summary: "Dataset of patronizing and condescending language towards vulnerable communities"
-authors: [perezalmendrosc,espinosaankel,schockaerts]
+authors: [Dr Eirini Anthi, Dr Lowri Williams]
 tags: [dataset]
 categories: []
 date: 2022-02-18T21:25:57Z
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/Perez-AlmendrosC/dontpatronizeme"
-url_pdf: "https://aclanthology.org/2020.coling-main.518.pdf"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
