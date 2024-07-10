@@ -7,6 +7,7 @@ authors: [Dr Eirini Anthi, Dr Lowri Williams]
 tags: []
 categories: []
 date: 2023-07-01
+abstract: "Deep learning models, often perceived as inscrutable black boxes, offer predictions without insights into their decision-making processes. This talk addresses the critical need for model interpretability, providing an overview of some of the recent techniques designed to shed light on how these models arrive at their conclusions. I will specifically delve into recent advancements in backward and forward methods for evaluating token attribution and context mixing, with a particular emphasis on Transformer models due to their prevalent role in current deep learning research. This exploration not only aims to demystify the operational intricacies of Transformers but also to highlight the importance of transparency in the development and deployment of AI systems."
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
