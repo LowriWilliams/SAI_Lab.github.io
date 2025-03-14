@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jake Samuels
+title: Dylan Hampton
 weight: 10
 
 # Is this the primary user of the site?
@@ -21,7 +21,7 @@ bio:
 
 interests:
 - LLM security
-- Social engineering
+- AI trust in high risk environments
 
 # education:
 #   courses:
@@ -42,7 +42,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link:  https://www.linkedin.com/in/jake-samuels-198b34154/
+    link:  https://www.linkedin.com/in/hamptonds97/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
