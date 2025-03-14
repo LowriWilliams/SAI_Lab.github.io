@@ -41,7 +41,7 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/hamptonds97/
 # - icon: envelope
 #   icon_pack: fas
