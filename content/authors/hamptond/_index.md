@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Prof Pete Burnap
+title: Dylan Hampton
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor in Data Science & Cybersecurity/Founding Director of the Wales Cyber Innovation Hub
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,8 +20,8 @@ organizations:
 bio: 
 
 interests:
-- ML and AML Cyber Defenses
-- AI Security
+- LLM security
+- AI trust in high risk environments
 
 # education:
 #   courses:
@@ -39,9 +40,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
+- icon: linkedin
   icon_pack: fas
-  link: https://profiles.cardiff.ac.uk/staff/burnapp
+  link: https://www.linkedin.com/in/hamptonds97/
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
@@ -72,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Associated Faculty
+- PhD Students
 ---
 
 

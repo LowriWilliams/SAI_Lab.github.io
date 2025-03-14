@@ -18,7 +18,7 @@ content:
   user_groups:
   - Co Directors
   - Associated Faculty
-  - Researchers
+  # - Researchers
   - PhD Students
 
 design:
