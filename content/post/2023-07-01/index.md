@@ -1,8 +1,9 @@
 ---
-title: New PhD Student
+title: Funding Awarded
 authors: [Dr Eirini Anthi, Dr Lowri Williams]
-publishDate: 2025-01-01
+publishDate: 2023-07-01
 ---
 
-Introducing a new PhD student, Zain Hankin to the team. His PhDs are funded by the [Wales Cyber Innovation Hub](https://cyberinnovationhub.wales/) and his research focuses around Industrial Control Systems and automated defenses.
+We have been awarded £120,000 by National Highways to evalaute and improve the robustness of their AI-based systems.
+
 

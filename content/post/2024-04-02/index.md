@@ -1,5 +1,5 @@
 ---
-title: Looking for PhD Students!
+title: Looking for PhD Students
 authors: [Dr Lowri Williams, Dr Eirini Anthi]
 publishDate: 2024-04-02
 links:
