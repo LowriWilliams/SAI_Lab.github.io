@@ -18,8 +18,9 @@ content:
   user_groups:
   - Co Directors
   - Associated Faculty
-  # - Researchers
   - PhD Students
+  - Alumni
+# - Researchers
 
 design:
   show_interests: true
