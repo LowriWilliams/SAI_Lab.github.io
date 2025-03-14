@@ -1,7 +1,7 @@
 ---
 title: New PhD Student
 authors: [Dr Eirini Anthi, Dr Lowri Williams]
-publishDate: 2025-01-01
+publishDate: 2025-03-14
 links:
 - name: Wales Cyber Innovation Hub
   url: https://cyberinnovationhub.wales/
