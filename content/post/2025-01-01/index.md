@@ -1,9 +1,7 @@
 ---
-title: Funding Awarded
+title: New PhD Students
 authors: [Dr Eirini Anthi, Dr Lowri Williams]
-publishDate: 2023-07-01
+publishDate: 2025-01-01
 ---
 
-We have been awarded £120,000 by National Highways to evalaute and improve the robustness of their AI-based systems.
-
-
+Introducing 2 new PhD student, Jake Samuels, Dylan Hampton, and Zain Hankin to the team. Their PhDs are funded by the [Wales Cyber Innovation Hub](https://cyberinnovationhub.wales/) and their research focus around the use, security, and trust of LLMs.
