@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: CardiffNLP # Website name
-baseURL: 'https://cardiffnlp.github.io/' # Website URL
-copyright: '© {year} Cardiff NLP' # Footer text, e.g. '© {year} Me'
+title: SAI-Lab # Website name
+baseURL: 'https://sai-lab.co.uk' # Website URL
+copyright: '© {year} SAI Lab' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
