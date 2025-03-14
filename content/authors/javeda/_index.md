@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Dr Irene Anthi
+title: Dr Amir Javed
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,9 +20,7 @@ organizations:
 bio: 
 
 interests:
-- AML against Cyber Defenses
-- Trustworthy AI
-- LLM Applications in Cyber
+- ML and AML Cyber Defenders
 
 # education:
 #   courses:
@@ -42,7 +41,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://profiles.cardiff.ac.uk/staff/anthies
+  link: https://profiles.cardiff.ac.uk/staff/javeda7
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
@@ -73,7 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co Directors
+- Associated Faculty
 ---
 
 
