@@ -21,7 +21,8 @@ bio:
 
 interests:
 - LLM security
-- Social engineering
+- AI trust in high risk environments
+
 
 # education:
 #   courses:
