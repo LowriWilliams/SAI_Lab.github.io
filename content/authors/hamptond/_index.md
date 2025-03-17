@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jake Samuels
+title: Dylan Hampton
 weight: 10
 
 # Is this the primary user of the site?
