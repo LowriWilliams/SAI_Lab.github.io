@@ -4,7 +4,7 @@
 title: "Evaluating and Improving the Robustness of National Highways’ AI-based Systems"
 summary: "The safety of drivers, passengers, and pedestrians on national highways is critical, but increasing traffic volume has led to a rise in accidents and fatalities. This project investigates the trustworthiness of applying AI in intelligent transport systems, and subsequently proposes a comprehensive framework for evaluating the performance and robustness of AI systems for intelligent roads."
 authors: [Dr Eirini Anthi, Dr Lowri Williams]
-tags: []
+tags: [Intelligent Transportation Systems, Trustworthinesss]
 categories: []
 date: 2023-07-01
 
